@@ -3,7 +3,7 @@ equinoxx
 
 Guilde EquinoXx
 
-Pour un fonctionnement adéquat veillez à nommer votre dépôt local : Kevin-Giret-Rendu et votre base de données : kevingiret.
+Pour un fonctionnement adéquat veillez à nommer votre dépôt local : KevinGiret-Rendu et votre base de données : kevingiret.
 
 Le coeur de l'application utilise le moteur de templating Smarty dont voici un tutoriel simple : http://fredods.com/creer-votre-site-avec-smarty-en-mvc-partie-1/ .
 
